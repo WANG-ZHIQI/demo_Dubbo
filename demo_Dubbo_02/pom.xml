@@ -22,5 +22,6 @@
     <modules>
         <module>demo_Dubbo_02Api</module>
         <module>demo_Dubbo_02Provider</module>
+        <module>demo_hotel</module>
     </modules>
 </project>
